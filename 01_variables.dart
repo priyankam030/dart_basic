@@ -9,4 +9,8 @@ void main() {
   print(5);
 
   print(19 * 5);
+
+  print(19 + 5);
+
+  print(19 - 5) ;
 }
