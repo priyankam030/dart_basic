@@ -1,5 +1,5 @@
 void main() {
-  // datatype
+  // int datatype
   int a = 5;
   int b = 12;
 
